@@ -69,6 +69,17 @@ img {
 
 
 
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: -10px;
+}
+
+
+
+
 
 
 
@@ -81,7 +92,7 @@ img {
 .searchBar {
     padding: 5px;
     border-radius: 150px;
-    margin-left:10px;
+    margin-left:-4px;
     width: 198px;
     border: none;
     outline: none;
