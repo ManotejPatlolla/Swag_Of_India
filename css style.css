@@ -216,6 +216,9 @@ img {
     margin-top: 5px;
 }
 
+
+
+
 .topImg {
     width: 90%;
     position: relative;
@@ -251,8 +254,8 @@ img {
 
 .twologos{
     position: absolute;
-    margin-left:90%;
-    margin-top: -23%;
+    margin-left:88%;
+    margin-top: -26%;
 
 }
 
@@ -696,7 +699,7 @@ input::placeholder {
 
 
 .payments {
-    width: 44px;
+    width: 34px;
     display: flex;
     align-items: center;
     margin-top: 30px;
@@ -1408,3 +1411,25 @@ transform:scale(1.1,1.1);
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* bootstrap adjustments */
+
+.plexi{
+    margin-bottom: 11px;
+}
+
+
+
